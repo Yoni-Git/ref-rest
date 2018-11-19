@@ -10,3 +10,4 @@ public class RefugeeRestroomEventApplication {
         SpringApplication.run(RefugeeRestroomEventApplication.class, args);
     }
 }
+

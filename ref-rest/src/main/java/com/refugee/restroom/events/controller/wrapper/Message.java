@@ -1,4 +1,4 @@
-package com.refugee.restroom.events.controller.Wrapper;
+package com.refugee.restroom.events.controller.wrapper;
 
 public class Message {
     private String text;
